@@ -1,0 +1,17 @@
+let cor = prompt("Qual é a cor?");
+
+if(cor === "azul"){
+    console.log("cor fria");
+}else if(cor === "vermelha"){
+    console.log("cor quente")
+}else if(cor === "verde"){
+    console.log("cor natural");
+}else if(cor === "roxo"){
+    console.log("cor invalida");
+}else if(cor === "rosa"){
+    console.log("cor invalida");
+}else if(cor === "amarelo"){
+    console.log("cor do sol");
+}else if(cor === "marrom"){
+    console.log("cor terra");
+}
